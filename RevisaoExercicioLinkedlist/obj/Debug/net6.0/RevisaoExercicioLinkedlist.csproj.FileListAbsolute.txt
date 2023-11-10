@@ -1,0 +1,15 @@
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\bin\Debug\net6.0\RevisaoExercicioLinkedlist.exe
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\bin\Debug\net6.0\RevisaoExercicioLinkedlist.deps.json
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\bin\Debug\net6.0\RevisaoExercicioLinkedlist.runtimeconfig.json
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\bin\Debug\net6.0\RevisaoExercicioLinkedlist.dll
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\bin\Debug\net6.0\RevisaoExercicioLinkedlist.pdb
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.csproj.AssemblyReference.cache
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.AssemblyInfoInputs.cache
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.AssemblyInfo.cs
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.dll
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\refint\RevisaoExercicioLinkedlist.dll
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.pdb
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\RevisaoExercicioLinkedlist.genruntimeconfig.cache
+C:\Users\sidney.zuanazzi\source\repos\RevisaoExercicioLinkedlist\RevisaoExercicioLinkedlist\obj\Debug\net6.0\ref\RevisaoExercicioLinkedlist.dll
